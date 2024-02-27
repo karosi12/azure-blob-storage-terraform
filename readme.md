@@ -1,4 +1,4 @@
-# Provision Azure Blob storage
+# Provision Azure storage
 
 Create a Helm repository using Azure Blob Storage (search on the internet for instructions) The Azure Blob Storage should be created using Terraform.
 
